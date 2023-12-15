@@ -30,3 +30,8 @@ This tool was written as existing extensions to do a similar job (eg. Referer Co
 
 Install via the Chrome Web Store
 
+## Does data get collected
+No data gets stored or transmitted anywhere with this extension or ever will be. 
+All code is public and visible here, and is not compressed or obfuscated.
+
+Ambrose Clarke.
