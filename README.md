@@ -1,7 +1,5 @@
 # ACsHeaderControl
 
-https://chrome.google.com/webstore/detail/ACHeaderControl/fkdlljfhcjkkoclkndjhoggihfmacmkm
-
 Written by Ambrose Clarke
 Ireland - December 2023
 
