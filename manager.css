@@ -1,0 +1,46 @@
+
+html, body {
+	width: 400px;
+	margin: 0;
+	padding: 5px;
+	padding-top: 0px
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#rulesList {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+	padding-right: 10px
+}
+
+.rule-item {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    position: relative;
+}
+
+.rule-id {
+    width: 4em;
+}
+
+.condition-value {
+    width: 100%;
+    max-width: calc(100vw - 26px);
+}
+
+.referer-value {
+    width: 100%;
+    max-width: calc(100vw - 26px);
+}
+
+.actions {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
